@@ -13,7 +13,7 @@
 
 	var defaultKey		= '8UByoZ83aDImVLTAmEvGGRAk9hZP6A0Pvg4S8vfftbDXYlsJ', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [2124502842], // Comma separated array of Xively Feed ID numbers
-		applicationName	= 'Steves Smoker Controller', // Replaces Xively logo in the header
+		applicationName	= 'Steve\'s Smoker Controller', // Replaces Xively logo in the header
 		dataDuration	= '', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 0, // Default interval for data to be displayed (in seconds)
 		dataColor		= '', // CSS HEX value of color to represent data (omit leading #)
